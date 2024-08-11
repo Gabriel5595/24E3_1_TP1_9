@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  background-color: blue;
+  display: flex;
+  justify-content: space-between;
+}
+
+.container div {
+  background-color: red;
+  border: 1px solid black;
+  width: 50px;
+}
